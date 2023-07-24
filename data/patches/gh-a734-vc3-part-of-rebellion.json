@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "VC3 (Part of Rebellion)",
+	"description": "VC3 is a split off group from the German r/placede discord server, which was banned due to opposing the strict moderation of r/placede.\nThe name is representing the voice channel \"VC3\", in which the split off started by the channel getting deleted from the r/placede discord, due to the group criticizing the administration and moderation. The group merged with the already existing group Rebellion",
+	"links": {
+		"subreddit": [
+			"DE_place_"
+		],
+		"discord": [
+			"RRXccGRncM"
+		]
+	},
+	"path": {
+		"163": [
+			[
+				-307,
+				-451
+			],
+			[
+				-307,
+				-460
+			],
+			[
+				-280,
+				-460
+			],
+			[
+				-280,
+				-451
+			],
+			[
+				-307,
+				-451
+			]
+		]
+	},
+	"center": {
+		"163": [
+			-293,
+			-455
+		]
+	}
+}
